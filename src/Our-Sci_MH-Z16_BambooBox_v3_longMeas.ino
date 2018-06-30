@@ -11,7 +11,7 @@
 #define HIGH_RES_INTERVAL 2
 #define LOW_RES_INTERVAL_FACT 60
 
-#define HIGH_RES_COUNT 1000 // was 150
+#define HIGH_RES_COUNT 1000 // was 150. whaddiiisiit
 #define LOW_RES_COUNT 150 // was 150
 
 #define PIN_STARTBUTTON 8
