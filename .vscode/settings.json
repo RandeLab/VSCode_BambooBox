@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/dusjagr/.platformio/penv/bin:/home/dusjagr/.platformio/penv:/home/dusjagr/bin:/home/dusjagr/.local/bin:/opt/OpenPrinting-Gutenprint/sbin:/opt/OpenPrinting-Gutenprint/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    },
+    "git.ignoreLimitWarning": true
+}
