@@ -11,7 +11,7 @@
 #define HIGH_RES_INTERVAL 2
 #define LOW_RES_INTERVAL_FACT 60
 
-#define HIGH_RES_COUNT 450 // changed in Browser
+#define HIGH_RES_COUNT 450 // but why?
 #define LOW_RES_COUNT 150 // was 150
 
 #define PIN_STARTBUTTON 8
